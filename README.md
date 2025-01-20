@@ -8,7 +8,7 @@
 
 ## Tools & Technologies
 - React.js
-- Redux Toolkit
+- Redux 
 - React Router
 - Tailwind CSS
 
